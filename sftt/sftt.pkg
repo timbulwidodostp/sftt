@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'sftt': The Two-Tier Stochastic Frontier Framework models (2TSF) Use sftt With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _sftt_kp09_ll.ado
+f _sftt_pa15_ll.ado
+f nl_scaling_opt.ado
+f sftt.ado
+f sftt.sthlp
