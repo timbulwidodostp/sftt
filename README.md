@@ -1,6 +1,8 @@
 # sftt
 The Two-Tier Stochastic Frontier Framework models (2TSF) Use sftt With STATA 18
 
+https://www.youtube.com/watch?v=Ml9HCQ1eSgE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
